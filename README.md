@@ -1,7 +1,14 @@
 ## Olá! Eu sou Ben-Hur 👋
 
+Apaixonado por transformar dados em insights significativos.
+
 ## Formação Acadêmica
 - Bacharel em Estatística - **UFPE**(2016-2022)
+
+## Atuação Profissional
+- Analista de Dados - **Ávila Capital**(2023-Atualmente)
+- Estágiario de Dados - **UFPE**(2019-2022)
+- Consultor de Projetos - **Fisher, Consultoria Estatística** (2018-2020) (VOLUNTÁRIO)
 
 ## Hard Skills
 
@@ -19,14 +26,14 @@
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 
-## Ferramentas de Desenvolvimento
+### Ferramentas de Desenvolvimento
 
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3620?style=flat-square&logo=databricks&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VScode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
-## Em busca de mais conhecimento em:
+### Em busca de mais conhecimento em:
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -35,22 +42,3 @@
 
 🌐 Intermediário
 
-
-
-
-
-
-<!--
-**ben-hurs/ben-hurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
