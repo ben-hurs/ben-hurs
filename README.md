@@ -7,9 +7,9 @@ Apaixonado por transformar dados em insights significativos.
 
 ## Atuação Profissional
 - Analista de Dados - **Ávila Capital**(2023-Atualmente)
-- Assistente de Engenheiro de Dados - **Diversa, Sustentabilidade energetica**
+- Assistente de Engenheiro de Dados - **Diversa, Sustentabilidade energetica** (2022)
 - Estágiario de Dados - **UFPE**(2019-2022)
-- Consultor de Projetos - **Fisher, Consultoria Estatística** (2018-2020) (VOLUNTÁRIO)
+- Consultor de Projetos - **Fisher, Consultoria Estatística** (2018-2020)[Voluntário]
 
 ## Hard Skills
 
