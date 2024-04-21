@@ -7,6 +7,7 @@ Apaixonado por transformar dados em insights significativos.
 
 ## Atuação Profissional
 - Analista de Dados - **Ávila Capital**(2023-Atualmente)
+- Assistente de Engenheiro de Dados - **Diversa, Sustentabilidade energetica**
 - Estágiario de Dados - **UFPE**(2019-2022)
 - Consultor de Projetos - **Fisher, Consultoria Estatística** (2018-2020) (VOLUNTÁRIO)
 
@@ -38,7 +39,12 @@ Apaixonado por transformar dados em insights significativos.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-## Nível de Inglês
+## Idiomas 
 
-🌐 Intermediário
+🌐 Inglês - Intermediário
+
+## Como entrar em contato
+
+- E-mail: besali96@gmail.com
+- Whatsapp: 81 97916-1947
 
